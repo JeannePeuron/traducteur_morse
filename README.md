@@ -31,6 +31,10 @@ Produire un code lisible et maintenable
 
 Utiliser Git et GitHub pour versionner un projet individuel
 
+🚀 Hébergement
+Le site est hébergé grâce à GitHub Pages
+🔗 [https://jeannepeuron.github.io/traducteur_morse/}
+
 👩‍💻 Auteur
 
 Projet réalisé par [Jeanne PEURON], élève à Ada Tech School, dans le cadre du parcours Développeuse Fullstack.
